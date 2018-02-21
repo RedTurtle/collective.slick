@@ -1,5 +1,0 @@
-====================
-collective.slick
-====================
-
-User documentation

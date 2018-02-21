@@ -6,33 +6,7 @@
 collective.slick
 ================
 
-Tell me what your product does
-
-Features
---------
-
-- Can be bullet points
-
-
-Examples
---------
-
-This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
-
-
-Documentation
--------------
-
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
-
-
-Translations
-------------
-
-This product has been translated into
-
-- Klingon (thanks, K'Plai)
+Adds slick css and js resources to your Plone 5 site
 
 
 Installation
@@ -56,14 +30,13 @@ Contribute
 
 - Issue Tracker: https://github.com/collective/collective.slick/issues
 - Source Code: https://github.com/collective/collective.slick
-- Documentation: https://docs.plone.org/foo/bar
+- Documentation: https://github.com/collective/collective.slick#readme
 
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
+If you are having issues, please let us know by opening an issue on the issue tracker on GitHub
 
 
 License

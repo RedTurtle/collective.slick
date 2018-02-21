@@ -1,0 +1,30 @@
+{
+  "name": "collective.slick",
+  "version": "1.0.0",
+  "description": "Add slick carousel css and js resources to your Plone 5 site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedTurtle/collective.slick.git"
+  },
+  "keywords": ["collective", "plone", "slick", "carousel"],
+  "author": "RedTurtle <sviluppoplone@redturtle.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedTurtle/collective.slick/issues"
+  },
+  "homepage": "https://github.com/RedTurtle/collective.slick#readme",
+  "devDependencies": {
+    "@redturtle/eslint-config": "^1.2.0",
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.18.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-flowtype": "^2.45.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "prettier": "^1.10.2"
+  }
+}
