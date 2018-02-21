@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
 <registry>
-
+  <records prefix="plone.resources/slick"
+           interface="Products.CMFPlone.interfaces.IResourceRegistry">
+    <value key="css">
+      <element>++plone++collective.slick/slick.css</element>
+    </value>
+    <value key="js">++plone++collective.slick/slick.min.js</value>
+  </records>
 </registry>
