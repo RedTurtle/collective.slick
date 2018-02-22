@@ -1,6 +1,6 @@
 {
   "name": "collective.slick",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Add slick carousel css and js resources to your Plone 5 site",
   "main": "index.js",
   "scripts": {
