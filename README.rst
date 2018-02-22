@@ -6,7 +6,10 @@
 collective.slick
 ================
 
-Adds slick css and js resources to your Plone 5 site
+Adds slick_ css and js resources to your Plone 5 site.
+Currently, this adds slick version 1.8.1.
+
+.. _slick: https://github.com/kenwheeler/slick
 
 
 Installation
