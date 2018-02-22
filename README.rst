@@ -45,4 +45,4 @@ If you are having issues, please let us know by opening an issue on the issue tr
 License
 -------
 
-The project is licensed under the GPLv2.
+The project is licensed under the MIT License.
