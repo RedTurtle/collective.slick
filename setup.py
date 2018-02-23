@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='collective.slick',
-    version='0.1.0',
+    version='0.1.1.dev0',
     description="Add slick carousel css and js resources to your Plone 5 site",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
