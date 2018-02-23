@@ -46,3 +46,21 @@ License
 -------
 
 The project is licensed under the MIT License.
+
+
+Credits
+------------
+
+Developed with the support of `Regione Emilia Romagna`__.
+
+__ http://www.regione.emilia-romagna.it/
+
+
+Authors
+------------
+
+This product was developed by RedTurtle Technology team.
+
+.. image:: http://www.redturtle.it/redturtle_banner.png
+   :alt: RedTurtle Technology Site
+   :target: http://www.redturtle.it/
