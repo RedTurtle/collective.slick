@@ -1,9 +1,11 @@
 {
   "name": "collective.slick",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Add slick carousel css and js resources to your Plone 5 site",
   "main": "index.js",
   "scripts": {
+    "build": "grunt compile",
+    "grunt": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +27,11 @@
     "eslint-plugin-flowtype": "^2.45.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-prettier": "^2.6.0",
+    "grunt": "^1.0.2",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2",
     "prettier": "^1.10.2"
   }
 }

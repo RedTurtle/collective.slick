@@ -35,6 +35,14 @@
       post_handler=".setuphandlers.uninstall"
       />
 
+  <genericsetup:registerProfile
+      name="to1020"
+      title="collective.slick"
+      directory="profiles/to1020"
+      description="Upgrade to version 0.2.0 (1020)"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
   <utility
       factory=".setuphandlers.HiddenProfiles"
       name="collective.slick-hiddenprofiles"

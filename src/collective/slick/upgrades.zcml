@@ -3,14 +3,14 @@
   xmlns:genericsetup="http://namespaces.zope.org/genericsetup">
 
   <!-- -*- extra stuff goes here -*- -->
-  <!--<genericsetup:upgradeStep
+  <genericsetup:upgradeStep
     source="*"
-    destination="1001"
-    title="Reload GS profiles"
-    description=""
+    destination="1020"
+    title="Updated bundle"
+    description="Remove old resources"
     profile="collective.slick:default"
-    handler=".upgrades.reload_gs_profile"
-    />-->
+    handler=".upgrades.to_1020"
+    />
 
 
 </configure>
