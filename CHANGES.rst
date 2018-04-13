@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.1.1 (unreleased)
+0.2.0 (2018-04-13)
 ------------------
 
 - Fixed js bundle
