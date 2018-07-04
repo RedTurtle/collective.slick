@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.2.1 (unreleased)
+0.2.1 (2018-07-04)
 ------------------
 
 - Hid 1020 profile from installable ones
