@@ -5,7 +5,8 @@ Changelog
 0.2.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Hid 1020 profile from installable ones
+  [pnicolli]
 
 
 0.2.0 (2018-04-13)
