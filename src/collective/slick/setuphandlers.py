@@ -9,6 +9,7 @@ class HiddenProfiles(object):
     def getNonInstallableProfiles(self):
         """Hide uninstall profile from site-creation and quickinstaller."""
         return [
+            'collective.slick:to1020',
             'collective.slick:uninstall',
         ]
 
